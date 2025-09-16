@@ -26,7 +26,8 @@
       {
         "source": "/api/**",
         "function": {
-          "functionId": "api"
+          "functionId": "api",
+          "pinTag": true
         }
       },
       {
